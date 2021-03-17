@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Title = () => {
+function Title() {
     return(
         <>
-            <p>este es el titulo</p>
+         <p>este es el titulo de react js fundamentos</p>
         </>
-    );
+    )
 }
 
 export default Title
