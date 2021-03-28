@@ -17,7 +17,6 @@ const Contador = () => {
         setNumero(stateNumero * 0);
     }
 
-
     return ( 
         <>
             <h3>Hola soy contador {stateNumero}</h3>
