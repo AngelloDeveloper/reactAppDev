@@ -2,6 +2,7 @@
 //componentes
 import Title from './components/sidebar';
 import Contador from './components/Contador';
+import Lista from './components/map';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Title />
       <Contador />
       <p>hola mundo</p>
+      <Lista />
     </>
   );
 }
